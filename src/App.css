@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&display=swap');
+
 .App {
   text-align: center;
 }
@@ -6,6 +8,13 @@
   height: 40vmin;
   pointer-events: none;
 }
+
+h1{
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #0ccac4;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
